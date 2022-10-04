@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/searchEmojis/static/css/main.2735abdb.chunk.css",
+    "main.js": "/searchEmojis/static/js/main.08fb872c.chunk.js",
+    "main.js.map": "/searchEmojis/static/js/main.08fb872c.chunk.js.map",
+    "runtime-main.js": "/searchEmojis/static/js/runtime-main.01679662.js",
+    "runtime-main.js.map": "/searchEmojis/static/js/runtime-main.01679662.js.map",
+    "static/js/2.3f1d04a8.chunk.js": "/searchEmojis/static/js/2.3f1d04a8.chunk.js",
+    "static/js/2.3f1d04a8.chunk.js.map": "/searchEmojis/static/js/2.3f1d04a8.chunk.js.map",
+    "index.html": "/searchEmojis/index.html",
+    "static/css/main.2735abdb.chunk.css.map": "/searchEmojis/static/css/main.2735abdb.chunk.css.map",
+    "static/js/2.3f1d04a8.chunk.js.LICENSE.txt": "/searchEmojis/static/js/2.3f1d04a8.chunk.js.LICENSE.txt",
+    "static/media/emoji-icon.d338b090.svg": "/searchEmojis/static/media/emoji-icon.d338b090.svg",
+    "static/media/search-icon.f071e5c8.svg": "/searchEmojis/static/media/search-icon.f071e5c8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01679662.js",
+    "static/js/2.3f1d04a8.chunk.js",
+    "static/css/main.2735abdb.chunk.css",
+    "static/js/main.08fb872c.chunk.js"
+  ]
+}
