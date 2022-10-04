@@ -1,0 +1,26 @@
+.emojisBox{
+  background-color: var(--secondary-background-color);
+  box-shadow: var(--main-box-shadow);
+  border-radius: 6px;
+  padding: 8px;
+  margin: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  flex: 1;
+  min-height: 100px;
+  min-width: 100px;
+  transition: all 0.4s cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+.selected{
+  transform: rotate(32deg) scale(1.4,1.4);
+  box-shadow: var(--main-box-shadow-elevated); 
+}
+.emojis{
+  font-size: 40px;
+}
+.emojisTitle{
+  font-size: 12px;
+  font-weight: 600;
+}
